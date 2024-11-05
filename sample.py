@@ -1,1 +1,1 @@
-print('Edit in edit_sample_file branch')
+print('Edit in master branch')
